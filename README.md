@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on [Laravel Vue Inventory](https://github.com/RubelAzad/Laravel-Vue-Inventory.git), [HAEFA Application API](https://github.com/API-Bangladesh/HAEFA_API.git), [HAEFA Application CMS](https://github.com/API-Bangladesh/HAEFA_CMS.git)
 
-- 🌱 I’m currently learning **Laravel and Vue Topics**
+- 🌱 I’m currently learning **Laravel, React and Vue Topics**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RubelAzad](https://github.com/RubelAzad)
 
-- 💬 Ask me about **Laravel, Lumen, REST API, Vue**
+- 💬 Ask me about **Laravel, Lumen, REST API, Vue, React**
 
 - 📫 How to reach me **rubelazad123@gmail.com**
 
